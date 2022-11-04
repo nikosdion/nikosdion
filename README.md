@@ -21,10 +21,9 @@
 
 <div id="stats" align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=nikosdion&theme=merko)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nikosdion&count_private=true&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikosdion&layout=compact&theme=merko&hide=pascal)
+![Top languages used](https://github-readme-stats.vercel.app/api/top-langs/?username=nikosdion&layout=compact&theme=merko&hide=pascal)
 
 
 </div>
