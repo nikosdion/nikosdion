@@ -33,9 +33,9 @@
 ### :scroll: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Displaying Mastodon toots on your Joomla site](https://www.dionysopoulos.me/displaying-mastodon-toots-on-your-joomla-site.html)
 - [Common mistakes writing Joomla 4 plugins](https://www.dionysopoulos.me/common-mistakes-writing-joomla-plugins.html)
 - [Hello, Apple Silicon](https://www.dionysopoulos.me/hello-apple-silicon.html)
 - [Joomla Performance Tuning V: Content Quality](https://www.dionysopoulos.me/joomla-performance-tuning-v-content-quality.html)
 - [Joomla Performance Tuning IV: Site building calisthenics](https://www.dionysopoulos.me/joomla-performance-tuning-iv-site-building-calisthenics.html)
-- [Joomla Performance Tuning III: Static Media Optimization](https://www.dionysopoulos.me/joomla-performance-tuning-iii-static-media-optimization.html)
 <!-- BLOG-POST-LIST:END -->
